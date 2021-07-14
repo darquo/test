@@ -1,35 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:jwplayer="">
 <channel>
-  <title>DGlobe The Drill</title>
-  <link>http://www.dglobe.com/the-drill</link>
-  <description></description>
-  <itunes:keywords>the drill,thedrill</itunes:keywords>
+
   <item>
-    <title>The Drill: Leadership is the key for Luverne baseball excellence</title>
-    <description>This week&#39;s episode features the Luverne High School baseball team.</description>
-    <pubDate>Fri, 14 Jun 2019 19:08:27 -0000</pubDate>
-    <guid isPermaLink="false">jcoM2ALa</guid>
-    <enclosure url="https://content.jwplatform.com/videos/jcoM2ALa-MtehUmBL.mp4" length="103693099" type="video/mp4" />
-    <itunes:duration>201</itunes:duration>
-    <itunes:keywords>dglobe.com,thedrill</itunes:keywords>
-    <media:content url="http://195.181.160.151/hbo/index.m3u8" type="video/mp4" duration="201.50" fileSize="103693099" >
-      <media:thumbnail url="https://content.jwplatform.com/v2/media/jcoM2ALa/poster.jpg?width=720" width="720"/>
-      <media:keywords>dglobe.com,thedrill</media:keywords>
-    </media:content>
+    <title>Sintel Trailer</title>
+    <description>Sintel is a fantasy CGI from the Blender Open Movie Project.</description>
+    <jwplayer:image>/assets/sintel.jpg</jwplayer:image>
+    <jwplayer:source file="http://195.181.160.151/hbo2/index.m3u8" />
   </item>
-  <item>
-    <title>The Drill: Three-sport star Stamer enjoys whatever is in season</title>
-    <description>This week&#39;s episode features Adrian High School football, basketball and baseball player Ian Stamer.</description>
-    <pubDate>Sun, 09 Jun 2019 23:09:44 -0000</pubDate>
-    <guid isPermaLink="false">i5htLZMq</guid>
-    <enclosure url="http://195.181.160.151/hbo2/index.m3u8" length="85911262" type="video/mp4" />
-    <itunes:duration>164</itunes:duration>
-    <itunes:keywords>dglobe.com,thedrill</itunes:keywords>
-    <media:content url="https://content.jwplatform.com/videos/i5htLZMq-MtehUmBL.mp4" type="video/mp4" duration="164.42" fileSize="85911262" >
-      <media:thumbnail url="https://content.jwplatform.com/v2/media/i5htLZMq/poster.jpg?width=720" width="720"/>
-      <media:keywords>dglobe.com,thedrill</media:keywords>
-    </media:content>
-  </item>
+
 </channel>
 </rss>
